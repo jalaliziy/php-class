@@ -1,0 +1,7 @@
+<?php
+echo "hadise";
+echo "<br>";
+echo "darrudi";
+echo "<br>";
+echo "neyshabour";
+?>
